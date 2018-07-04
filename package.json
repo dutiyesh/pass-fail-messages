@@ -1,6 +1,6 @@
 {
   "name": "pass-fail-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replace boring pass and fail messages with popular movies and tv dialogues.",
   "license": "MIT",
   "repository": "dutiyesh/pass-fail-messages",
