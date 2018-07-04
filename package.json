@@ -1,0 +1,58 @@
+{
+  "name": "pass-fail-messages",
+  "version": "1.0.0",
+  "description": "Replace boring pass and fail messages with popular movies and tv dialogues.",
+  "license": "MIT",
+  "repository": "dutiyesh/pass-fail-messages",
+  "bin": {
+    "pass-fail": "cli.js"
+  },
+  "author": {
+    "name": "Dutiyesh Salunkhe",
+    "email": "dutiyesh@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "pass.json",
+    "fail.json"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "dialogue",
+    "dialogues",
+    "catchphrase",
+    "catchphrases",
+    "message",
+    "quote",
+    "quotes",
+    "movie",
+    "movies",
+    "tv show",
+    "tv series",
+    "list",
+    "array",
+    "json",
+    "random",
+    "rand",
+    "pass",
+    "fail",
+    "test"
+  ],
+  "dependencies": {
+    "meow": "^3.5.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
